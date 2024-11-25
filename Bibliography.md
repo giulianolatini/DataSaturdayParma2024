@@ -69,5 +69,9 @@
 - [Configure and Run Kapacitor (On Windows)](https://thesqldump.code.blog/2019/12/02/configure-and-run-kapacitor-on-windows/)
 - [Exec event handler](https://docs.influxdata.com/kapacitor/v1/reference/event_handlers/exec/)
 - [Kapacitor & Real-Time Stream Processing | InfluxData](https://www.influxdata.com/time-series-platform/kapacitor/)
+- [QuestDB](https://questdb.io/)
+- [Using Telegraf and QuestDB to store metrics in a time series database](https://questdb.io/blog/2021/07/09/telegraf-and-questdb-for-storing-metrics-in-a-timeseries-database/)
+- [Grafana Integration with QuestDB](https://questdb.io/docs/third-party-tools/grafana/)
+- [Ingestion Reference - Protocols - REST API](https://questdb.io/docs/reference/api/rest/)
 - 
 
