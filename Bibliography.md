@@ -73,5 +73,6 @@
 - [Using Telegraf and QuestDB to store metrics in a time series database](https://questdb.io/blog/2021/07/09/telegraf-and-questdb-for-storing-metrics-in-a-timeseries-database/)
 - [Grafana Integration with QuestDB](https://questdb.io/docs/third-party-tools/grafana/)
 - [Ingestion Reference - Protocols - REST API](https://questdb.io/docs/reference/api/rest/)
+- [Invoke-Sqlcmd - SqlServer](https://learn.microsoft.com/en-us/powershell/module/sqlserver/invoke-sqlcmd?view=sqlserver-ps)
 - 
 
